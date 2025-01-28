@@ -1,4 +1,4 @@
-# 🚀 Desafio: Conectando Microserviços na Nuvem 🚀  
+# 🚀 Desafio: Conectando Microserviços para o Banco JAVER 🚀  
 
 Bem-vindo ao repositório do desafio de programação! Este projeto consiste na criação de dois microsserviços utilizando Spring Boot, com foco em explorar o ecossistema RESTful e a interconexão entre aplicações com Feign Client. O objetivo é construir um sistema para **Cadastro de Clientes do Banco JAVER**!
 
