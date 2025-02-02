@@ -52,7 +52,7 @@ O repositório contém as pastas para cada aplicação:
 | GET     | `/score/{id}`       | Calcular o Score de Crédito do cliente.    |  
 
 ### 2. Aplicação Servidora  
-**Base URL**: `/api/v1/conta/clientes`  
+**Base URL**: `/api/v1/clientes`  
 
 | Método  | Rota                | Descrição                                  |  
 |---------|---------------------|--------------------------------------------|  
